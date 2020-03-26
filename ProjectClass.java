@@ -27,6 +27,7 @@ public class ProjectClass {
 	    	System.out.println(fibArr[num]);
 		    
 		System.out.println("Thank you");
+		System.out.println("Mik Mik");
 	}
 
 }
