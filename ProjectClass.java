@@ -25,7 +25,8 @@ public class ProjectClass {
 	    		fibArr[i]=fibArr[i-1]+fibArr[i-2];
 	    	} 
 	    	System.out.println(fibArr[num]);
-		
+		    
+		System.out.println("Thank you");
 	}
 
 }
